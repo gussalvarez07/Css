@@ -1,0 +1,20 @@
+h1{
+    @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil+Text:wght@100;300;400;500;600;700;800&display=swap');
+
+    font-size: 48pt;
+  }
+
+  .primer-titulo{
+      background-color:darkgray ;
+      font-family: 'Nerko One', cursive;
+  }
+  .entre-medio{
+      background-color:rgb(58, 222, 228); 
+  }
+  .pp{
+    font-family: 'Nerko One', cursive; 
+  }
+
+  .tatum{
+    font-family: italica;
+  }
